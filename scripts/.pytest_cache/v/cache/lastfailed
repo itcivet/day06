@@ -1,0 +1,5 @@
+{
+  "test01_login.py::TestLogin::test_login": true,
+  "test02_employee.py::TestEmployee::test01_post": true,
+  "test02_employee.py::TestEmployee::test04_delete": true
+}

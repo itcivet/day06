@@ -1,0 +1,29 @@
+2020-02-12 15:35:11,603 INFO [api_login.py(__init__:16)] - 正在初始化登录url：http://182.92.81.159/api/sys/login
+2020-02-12 15:35:11,603 INFO [api_login.py(api_login:23)] - 正在初始化登录数据：{'mobile': '13800000002', 'password': '123456'} 请求信息头：{'Content-Type': 'application/json'}
+2020-02-12 15:35:11,652 INFO [test01_login.py(test_login:31)] - 正在提取token：52656322-e789-4378-bea2-3507cd71f8b6
+2020-02-12 15:35:11,652 INFO [api_employee.py(__init__:22)] - 新增员工url: http://182.92.81.159/api/sys/user
+2020-02-12 15:35:11,653 INFO [api_employee.py(__init__:23)] - 删除、更新、查询url：http://182.92.81.159/api/sys/user/None
+2020-02-12 15:35:11,653 INFO [api_employee.py(api_post_employee:30)] - 新增员工数据：{'username': 'tonew1-1003', 'mobile': '17010331110', 'workNumber': '10233401'} 新增员工请求信息头：{'Content-Type': 'application/json', 'Authorization': 'Bearer 52656322-e789-4378-bea2-3507cd71f8b6'}
+2020-02-12 15:35:11,723 INFO [api_employee.py(api_delete_employee:48)] - 删除员工请求信息头：{'Content-Type': 'application/json', 'Authorization': 'Bearer 52656322-e789-4378-bea2-3507cd71f8b6'}
+2020-02-12 15:35:11,784 ERROR [assert_common.py(assert_common:27)] - True != False
+2020-02-12 15:39:29,128 INFO [api_login.py(__init__:16)] - 正在初始化登录url：http://182.92.81.159/api/sys/login
+2020-02-12 15:39:29,128 INFO [api_login.py(api_login:23)] - 正在初始化登录数据：{'mobile': '13800000002', 'password': '123456'} 请求信息头：{'Content-Type': 'application/json'}
+2020-02-12 15:39:29,186 INFO [test01_login.py(test_login:31)] - 正在提取token：cb118685-97e4-4a5c-bacd-8bc96ec3d9e8
+2020-02-12 15:39:29,187 INFO [api_employee.py(__init__:22)] - 新增员工url: http://182.92.81.159/api/sys/user
+2020-02-12 15:39:29,187 INFO [api_employee.py(__init__:23)] - 删除、更新、查询url：http://182.92.81.159/api/sys/user/{}
+2020-02-12 15:39:29,187 INFO [api_employee.py(api_post_employee:30)] - 新增员工数据：{'username': 'tonew1-1004', 'mobile': '17010331120', 'workNumber': '10233402'} 新增员工请求信息头：{'Content-Type': 'application/json', 'Authorization': 'Bearer cb118685-97e4-4a5c-bacd-8bc96ec3d9e8'}
+2020-02-12 15:39:29,247 INFO [api_employee.py(api_delete_employee:48)] - 删除员工请求信息头：{'Content-Type': 'application/json', 'Authorization': 'Bearer cb118685-97e4-4a5c-bacd-8bc96ec3d9e8'}
+2020-02-12 18:22:21,688 INFO [api_login.py(__init__:16)] - 正在初始化登录url：http://182.92.81.159/api/sys/login
+2020-02-12 18:22:21,688 INFO [api_login.py(api_login:23)] - 正在初始化登录数据：{'mobile': '13800000002', 'password': '123456'} 请求信息头：{'Content-Type': 'application/json'}
+2020-02-12 18:22:21,795 INFO [test01_login.py(test_login:31)] - 正在提取token：87183995-e37b-4235-bf9c-b0cb16b2c31a
+2020-02-12 18:22:21,795 INFO [api_employee.py(__init__:22)] - 新增员工url: http://182.92.81.159/api/sys/user
+2020-02-12 18:22:21,795 INFO [api_employee.py(__init__:23)] - 删除、更新、查询url：http://182.92.81.159/api/sys/user/{}
+2020-02-12 18:22:21,795 INFO [api_employee.py(api_post_employee:30)] - 新增员工数据：{'username': 'tonew1-1004', 'mobile': '17010331120', 'workNumber': '10233402'} 新增员工请求信息头：{'Content-Type': 'application/json', 'Authorization': 'Bearer 87183995-e37b-4235-bf9c-b0cb16b2c31a'}
+2020-02-12 18:22:21,899 INFO [api_employee.py(api_delete_employee:48)] - 删除员工请求信息头：{'Content-Type': 'application/json', 'Authorization': 'Bearer 87183995-e37b-4235-bf9c-b0cb16b2c31a'}
+2020-02-12 18:38:48,443 INFO [api_login.py(__init__:16)] - 正在初始化登录url：http://182.92.81.159/api/sys/login
+2020-02-12 18:38:48,443 INFO [api_login.py(api_login:23)] - 正在初始化登录数据：{'mobile': '13800000002', 'password': '123456'} 请求信息头：{'Content-Type': 'application/json'}
+2020-02-12 18:38:48,552 INFO [test01_login.py(test_login:31)] - 正在提取token：c192c0a6-b04f-487e-aa5f-ae17b690e356
+2020-02-12 18:38:48,552 INFO [api_employee.py(__init__:22)] - 新增员工url: http://182.92.81.159/api/sys/user
+2020-02-12 18:38:48,552 INFO [api_employee.py(__init__:23)] - 删除、更新、查询url：http://182.92.81.159/api/sys/user/{}
+2020-02-12 18:38:48,552 INFO [api_employee.py(api_post_employee:30)] - 新增员工数据：{'username': 'tonew1-1004', 'mobile': '17010331120', 'workNumber': '10233402'} 新增员工请求信息头：{'Content-Type': 'application/json', 'Authorization': 'Bearer c192c0a6-b04f-487e-aa5f-ae17b690e356'}
+2020-02-12 18:38:48,671 INFO [api_employee.py(api_delete_employee:48)] - 删除员工请求信息头：{'Content-Type': 'application/json', 'Authorization': 'Bearer c192c0a6-b04f-487e-aa5f-ae17b690e356'}

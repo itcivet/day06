@@ -1,0 +1,7 @@
+[
+  "test01_login.py::TestLogin::test_login_0_13800000002",
+  "test02_employee.py::TestEmployee::test01_post",
+  "test02_employee.py::TestEmployee::test02_put",
+  "test02_employee.py::TestEmployee::test03_get",
+  "test02_employee.py::TestEmployee::test04_delete"
+]

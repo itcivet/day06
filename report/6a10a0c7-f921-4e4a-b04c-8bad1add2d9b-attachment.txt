@@ -1,0 +1,1 @@
+INFO     root:api_employee.py:30 新增员工数据：{'username': 'tonew1-1004', 'mobile': '17010331120', 'workNumber': '10233402'} 新增员工请求信息头：{'Content-Type': 'application/json', 'Authorization': 'Bearer 4ad66d21-6829-4e3e-aec1-107a591d9bd0'}
